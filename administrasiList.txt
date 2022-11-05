@@ -1,0 +1,4 @@
+Administrasi goal for today : 
+- Buat alur permintaan nomor surat masuk dan keluar
+- Buat diagram flow
+- Buat alur sistem
