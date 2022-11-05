@@ -3,4 +3,4 @@ Administrasi goal for today :
 - Buat diagram flow
 - Buat alur sistem
 - Buat desain html dan css
-- Desain Database
+- Desain Database (Pakai Knex)
