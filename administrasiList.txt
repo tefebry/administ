@@ -4,3 +4,4 @@ Administrasi goal for today :
 - Buat alur sistem
 - Buat desain html dan css
 - Desain Database
+- Schema Database Pakai Knex untuk query database builder
